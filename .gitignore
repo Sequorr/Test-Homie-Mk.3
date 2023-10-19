@@ -1,0 +1,8 @@
+node_modules
+.env
+config.json
+info.txt
+notes.txt
+.eslintrc.json
+launcher.ps1
+Test-Launcher.lnk
